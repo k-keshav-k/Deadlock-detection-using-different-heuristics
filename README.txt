@@ -1,9 +1,5 @@
 README
 
-Submitter Name: 	Keshav Krishna
-Roll No.: 		    2019csb1224
-Course:		        CS303
-
 1.	What does this program do
 
 This program checks for deadlocks in n worker threads with m resources. 
